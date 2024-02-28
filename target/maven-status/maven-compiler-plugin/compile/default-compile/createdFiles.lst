@@ -1,0 +1,13 @@
+com\oneempower\auth\config\WebSecurityConfig.class
+com\oneempower\auth\service\UserServiceImpl.class
+com\oneempower\auth\security\UserDetailsServiceImpl.class
+com\oneempower\auth\service\UserService.class
+com\oneempower\auth\SpringDemoApplication.class
+com\oneempower\auth\security\SecurityService.class
+com\oneempower\auth\validator\UserValidator.class
+com\oneempower\auth\web\UserController.class
+com\oneempower\auth\model\User.class
+com\oneempower\auth\repository\RoleRepository.class
+com\oneempower\auth\repository\UserRepository.class
+com\oneempower\auth\model\Role.class
+com\oneempower\auth\security\SecurityServiceImpl.class
